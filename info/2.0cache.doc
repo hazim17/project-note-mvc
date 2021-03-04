@@ -1,0 +1,6 @@
+=> When you delete the css file but the page still showing the result style, that because of the cache
+
+=> press ctrl + F5 to delete cache
+
+https://stackoverflow.com/questions/12196923/css-after-deleting-a-style-it-still-shows-up
+
